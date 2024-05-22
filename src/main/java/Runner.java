@@ -4,4 +4,7 @@ public class Runner {
   //yine
 
     //selam
+    public static void main(String[] args) {
+
+    }
 }
